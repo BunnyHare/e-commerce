@@ -1,0 +1,7 @@
+E:\Engineering_Pratice\Lyzj_Store-master\src\陇原商城\Model\bin\Debug\Model.dll
+E:\Engineering_Pratice\Lyzj_Store-master\src\陇原商城\Model\bin\Debug\Model.pdb
+E:\Engineering_Pratice\Lyzj_Store-master\src\陇原商城\Model\bin\Debug\DBUtility.dll
+E:\Engineering_Pratice\Lyzj_Store-master\src\陇原商城\Model\bin\Debug\DBUtility.pdb
+E:\Engineering_Pratice\Lyzj_Store-master\src\陇原商城\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+E:\Engineering_Pratice\Lyzj_Store-master\src\陇原商城\Model\obj\Debug\Model.dll
+E:\Engineering_Pratice\Lyzj_Store-master\src\陇原商城\Model\obj\Debug\Model.pdb

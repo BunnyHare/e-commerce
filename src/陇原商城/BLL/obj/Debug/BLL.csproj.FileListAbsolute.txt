@@ -1,0 +1,11 @@
+E:\Engineering_Pratice\Lyzj_Store-master\src\陇原商城\BLL\bin\Debug\BLL.dll
+E:\Engineering_Pratice\Lyzj_Store-master\src\陇原商城\BLL\bin\Debug\BLL.pdb
+E:\Engineering_Pratice\Lyzj_Store-master\src\陇原商城\BLL\bin\Debug\DAL.dll
+E:\Engineering_Pratice\Lyzj_Store-master\src\陇原商城\BLL\bin\Debug\DBUtility.dll
+E:\Engineering_Pratice\Lyzj_Store-master\src\陇原商城\BLL\bin\Debug\Model.dll
+E:\Engineering_Pratice\Lyzj_Store-master\src\陇原商城\BLL\bin\Debug\DBUtility.pdb
+E:\Engineering_Pratice\Lyzj_Store-master\src\陇原商城\BLL\bin\Debug\Model.pdb
+E:\Engineering_Pratice\Lyzj_Store-master\src\陇原商城\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\Engineering_Pratice\Lyzj_Store-master\src\陇原商城\BLL\obj\Debug\BLL.dll
+E:\Engineering_Pratice\Lyzj_Store-master\src\陇原商城\BLL\obj\Debug\BLL.pdb
+E:\Engineering_Pratice\Lyzj_Store-master\src\陇原商城\BLL\bin\Debug\DAL.pdb

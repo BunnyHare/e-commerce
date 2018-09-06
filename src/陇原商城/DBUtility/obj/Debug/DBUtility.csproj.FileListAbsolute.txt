@@ -1,0 +1,4 @@
+E:\Engineering_Pratice\Lyzj_Store-master\src\陇原商城\DBUtility\bin\Debug\DBUtility.dll
+E:\Engineering_Pratice\Lyzj_Store-master\src\陇原商城\DBUtility\bin\Debug\DBUtility.pdb
+E:\Engineering_Pratice\Lyzj_Store-master\src\陇原商城\DBUtility\obj\Debug\DBUtility.dll
+E:\Engineering_Pratice\Lyzj_Store-master\src\陇原商城\DBUtility\obj\Debug\DBUtility.pdb
